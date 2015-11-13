@@ -1,2 +1,4 @@
 Testando
 outro teste
+Testando o Git
+Novo teste do Git

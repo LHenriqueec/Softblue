@@ -18,9 +18,10 @@ public class Aplicacao {
 		
 		PrintWriter pw = new PrintWriter(file);
 		pw.println("Testando");
-		pw.print("outro teste");
+		pw.println("outro teste");
+		pw.println("Testando o Git");
+		pw.println("Novo teste do Git");
 		pw.close();
-		read.close();
 		
 	
 	}
